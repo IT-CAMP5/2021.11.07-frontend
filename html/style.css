@@ -1,0 +1,25 @@
+div a {
+	color: red;
+}
+
+#paragraf {
+	color: red;
+	background: blue;
+	font-size: 25px;
+}
+
+#form input {
+	font-size: 40px;
+}
+
+.car {
+	background: #2b8047;
+	margin: 10px 5px 7px 6px;
+	margin-bottom: 50px;
+	margin-left: 30px;
+	margin-right: 20px;
+	margin-top: 70px;
+	border: 5px solid red;
+	padding: 10px;
+	width: 30vh;
+}
